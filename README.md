@@ -79,25 +79,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahan-dulanjaya&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
----
 
-<h3 align="left">👨‍💻 Repositories:</h3>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Sahan-Dulanjaya/TRACKMATE-IOT-Based-Wearable-Device-for-Rehabilitation-Monitoring" title="ecommerce-test-automation-framework"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Sahan-Dulanjaya/ecommerce-test-automation-framework" title="TRACKMATE-IOT-Based-Wearable-Device-for-Rehabilitation-Monitoring"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Sahan-Dulanjaya/DAIRYAI-Subclinical-Mastitis-Detection-using-Multiple-ML-Models" title="DAIRYAI-Subclinical-Mastitis-Detection-using-Multiple-ML-Models"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Sahan-Dulanjaya/FlavorFeed-A-Social-Media-Platform-for-Foodies" title="FlavorFeed-A-Social-Media-Platform-for-Foodies"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Sahan-Dulanjaya/Team-ghostRunners_BobsPizza_ANDROID_APP" title="Team-ghostRunners_BobsPizza_ANDROID_APP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Sahan-Dulanjaya/Aqua_Assist_Donation_Platform" title="Aqua_Assist_Donation_Platform"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/Sahan-Dulanjaya?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
