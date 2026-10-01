@@ -20,7 +20,7 @@
 .pulse{animation:pulse 1.8s ease-in-out infinite;transform-origin:center;transform-box:fill-box}
 .r{fill:#CAF029;animation:bob 4.4s ease-in-out infinite}
 @keyframes blink{50%{opacity:0}}
-@keyframes role{0%{opacity:0;transform:translateY(10px)}3%,17%{opacity:1;transform:none}20%,100%{opacity:0;transform:translateY(-10px)}}
+@keyframes role{0%{opacity:0;transform:translateY(10px)}2%,19%{opacity:1;transform:none}21%,100%{opacity:0;transform:translateY(-10px)}}
 @keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(.7)}}
 @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}.role:first-of-type{opacity:1}}
